@@ -1,12 +1,11 @@
 ---------- Mini Project 002 ----------
-/*
-/// Mark: all pages need metadata 
+Mark: all pages need metadata 
 1. / : Homepage
- Navbar
+ -> Navbar
  a. fetching 20 products ( image, title, price)
  b. fetching all categories ( image, name)
  c. fetching 8 users ( image, name)
- Footer
+ -> Footer
 2. Detail Page
  a. Product by ID ( generateMetadata )
 3. Insert Product ( title, price, description, categoryId, images: [])
